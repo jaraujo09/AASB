@@ -1,6 +1,6 @@
 # AASB
 
-#Trabalho Algoritmos para Análise de Sequências Biológicas
+Trabalho Algoritmos para Análise de Sequências Biológicas
 - Joana Araújo pg49836
-- Mariana Braga pg45966
+- Mariana Silva pg45966
 - Tiago Silva pg49849
